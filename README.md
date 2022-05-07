@@ -1,6 +1,3 @@
-# stars-task
-
-## The task
 Implement the [`stars` block](https://www.figma.com/file/EIBkG1dy1jnK88YPO34Qir/Moyo-Catalog-updated) used in card and catalog.
 You DON'T need to implement the card now, just the stars block.
 
@@ -21,7 +18,6 @@ ___
   - The distance between the stars is also fixed
   - Use `display: flex` for the `stars` block to avoid an issue with extra spaces between individual stars
 
-## Tips & Hints
-- Check the design again. See the difference in size between star image and its
-container?
+# Tips & Hints
+- Check the design again. See the difference in size between star image and its container?
 - There`s no need to add vertical margins between rows of stars.
